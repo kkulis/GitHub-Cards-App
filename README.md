@@ -1,6 +1,6 @@
-GitHub Cards App from PluralSight course "React: Getting Started" with Bootstrap styles. 
+## GitHub Cards App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GitHub Cards App from PluralSight course "React: Getting Started" with Bootstrap styles. 
 
 ## Available Scripts
 
