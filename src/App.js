@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import axios from 'axios';
-import { useState } from 'react';
+//import { useState } from 'react';
 
 
 // const testData = [
@@ -58,7 +58,7 @@ class Card extends React.Component {
     return (
       <div>
         <div className="card" style={{ width: "8rem" }}>
-          <img className="card-img-top" src={profile.avatar_url} alt="Card image cap"></img>
+          <img className="card-img-top" src={profile.avatar_url} alt="avatar"></img>
           <div className="card-body">
             <h6 className="card-title">{profile.name}</h6>
             <p className="card-text">{profile.company}</p>
